@@ -1,3 +1,3 @@
 module github.com/chainguard-dev/terraform-infra-common/modules/cron/example
 
-go 1.22
+go 1.25.7
