@@ -2,6 +2,8 @@ module github.com/chainguard-dev/terraform-infra-common
 
 go 1.24.2
 
+toolchain go1.26.2
+
 require (
 	chainguard.dev/go-grpc-kit v0.17.10
 	chainguard.dev/sdk v0.1.32
